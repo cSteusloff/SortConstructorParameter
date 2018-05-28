@@ -1,0 +1,26 @@
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Analyzer1\Analyzer1\Analyzer1\bin\Debug\netstandard1.3\tools\install.ps1
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Analyzer1\Analyzer1\Analyzer1\bin\Debug\netstandard1.3\tools\uninstall.ps1
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Analyzer1\Analyzer1\Analyzer1\bin\Debug\netstandard1.3\Analyzer1.deps.json
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Analyzer1\Analyzer1\Analyzer1\bin\Debug\netstandard1.3\Analyzer1.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Analyzer1\Analyzer1\Analyzer1\bin\Debug\netstandard1.3\Analyzer1.pdb
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Analyzer1\Analyzer1\Analyzer1\obj\Debug\netstandard1.3\Analyzer1.csprojAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Analyzer1\Analyzer1\Analyzer1\obj\Debug\netstandard1.3\Analyzer1.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Analyzer1\Analyzer1\Analyzer1\obj\Debug\netstandard1.3\Analyzer1.csproj.GenerateResource.cache
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Analyzer1\Analyzer1\Analyzer1\obj\Debug\netstandard1.3\Analyzer1.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Analyzer1\Analyzer1\Analyzer1\obj\Debug\netstandard1.3\Analyzer1.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Analyzer1\Analyzer1\Analyzer1\obj\Debug\netstandard1.3\Analyzer1.AssemblyInfo.cs
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Analyzer1\Analyzer1\Analyzer1\obj\Debug\netstandard1.3\Analyzer1.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Analyzer1\Analyzer1\Analyzer1\obj\Debug\netstandard1.3\Analyzer1.pdb
+C:\Users\chris\Source\Repos\SortConstructorParameter\Analyzer1\Analyzer1\bin\Debug\netstandard1.3\tools\install.ps1
+C:\Users\chris\Source\Repos\SortConstructorParameter\Analyzer1\Analyzer1\bin\Debug\netstandard1.3\tools\uninstall.ps1
+C:\Users\chris\Source\Repos\SortConstructorParameter\Analyzer1\Analyzer1\bin\Debug\netstandard1.3\Analyzer1.deps.json
+C:\Users\chris\Source\Repos\SortConstructorParameter\Analyzer1\Analyzer1\bin\Debug\netstandard1.3\Analyzer1.dll
+C:\Users\chris\Source\Repos\SortConstructorParameter\Analyzer1\Analyzer1\bin\Debug\netstandard1.3\Analyzer1.pdb
+C:\Users\chris\Source\Repos\SortConstructorParameter\Analyzer1\Analyzer1\obj\Debug\netstandard1.3\Analyzer1.csprojAssemblyReference.cache
+C:\Users\chris\Source\Repos\SortConstructorParameter\Analyzer1\Analyzer1\obj\Debug\netstandard1.3\Analyzer1.Resources.resources
+C:\Users\chris\Source\Repos\SortConstructorParameter\Analyzer1\Analyzer1\obj\Debug\netstandard1.3\Analyzer1.csproj.GenerateResource.cache
+C:\Users\chris\Source\Repos\SortConstructorParameter\Analyzer1\Analyzer1\obj\Debug\netstandard1.3\Analyzer1.csproj.CoreCompileInputs.cache
+C:\Users\chris\Source\Repos\SortConstructorParameter\Analyzer1\Analyzer1\obj\Debug\netstandard1.3\Analyzer1.AssemblyInfoInputs.cache
+C:\Users\chris\Source\Repos\SortConstructorParameter\Analyzer1\Analyzer1\obj\Debug\netstandard1.3\Analyzer1.AssemblyInfo.cs
+C:\Users\chris\Source\Repos\SortConstructorParameter\Analyzer1\Analyzer1\obj\Debug\netstandard1.3\Analyzer1.dll
+C:\Users\chris\Source\Repos\SortConstructorParameter\Analyzer1\Analyzer1\obj\Debug\netstandard1.3\Analyzer1.pdb
